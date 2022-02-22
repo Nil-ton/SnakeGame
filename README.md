@@ -2,4 +2,4 @@
 GameSnake using clean architecturein in code.
 
 # Start Game
-Open src/index.html and test.
+install the dependencies with <strong>npm install</strong> and open the <strong>index.html</strong> file
